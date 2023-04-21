@@ -1,9 +1,0 @@
-{
-	title = 'busted',
-	repository = 'kepler155c/opus-apps/{{OPUS_BRANCH}}/moonscript',
-	description = [[WIP]],
-	license = 'MIT',
-    required = {
-		'penlight',
-	},
-}

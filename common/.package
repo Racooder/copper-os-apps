@@ -1,14 +1,10 @@
 {
 	title = 'Useful applications',
-	repository = 'kepler155c/opus-apps/{{OPUS_BRANCH}}/common',
+	repository = 'Racooder/opus-apps/{{OPUS_BRANCH}}/common',
 	description = [[Various applications for Opus.
 
-* App Store
-* Peripheral API viewer
-* Disk / Computer copier
-* A better editor (copy/paste/undo)
-* Turtle swarm miner
-* Turtle follow
+* A office editor
+* A better code editor (copy/paste/undo)
 * Screen recorder
 * and more...
 	]],

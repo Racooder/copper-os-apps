@@ -1,7 +1,0 @@
-local Config = require('opus.config')
-local pt = turtle.enableGPS()
-if pt then
-  local config = Config.load('gps', { })
-  config.home = pt
-  Config.update('gps', config)
-end
