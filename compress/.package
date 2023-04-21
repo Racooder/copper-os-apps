@@ -1,6 +1,6 @@
 {
 	title = 'Compress',
-	repository = 'Racooder/opus-apps/{{OPUS_BRANCH}}/compress',
+	repository = 'Racooder/opus-apps-quilt-tech/{{OPUS_BRANCH}}/compress',
 	description = [[untar / gunzip]],
 	license = 'MIT',
 }

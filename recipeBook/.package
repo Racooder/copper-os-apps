@@ -1,6 +1,6 @@
 {
 	title = 'Recipe books for crafting programs',
-	repository = 'Racooder/opus-apps/{{OPUS_BRANCH}}/recipeBook',
+	repository = 'Racooder/opus-apps-quilt-tech/{{OPUS_BRANCH}}/recipeBook',
 	description = [[Recipe book manager for Milo and programs that utilize crafting]],
 	license = 'MIT',
 }

@@ -1,6 +1,6 @@
 {
 	title = 'Useful applications',
-	repository = 'Racooder/opus-apps/{{OPUS_BRANCH}}/common',
+	repository = 'Racooder/opus-apps-quilt-tech/{{OPUS_BRANCH}}/common',
 	description = [[Various applications for Opus.
 
 * A office editor

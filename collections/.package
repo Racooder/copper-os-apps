@@ -1,6 +1,6 @@
 {
 	title = 'Collections',
-	repository = 'Racooder/opus-apps/{{OPUS_BRANCH}}/collections',
+	repository = 'Racooder/opus-apps-quilt-tech/{{OPUS_BRANCH}}/collections',
 	description = [[Collections (rework)
 See: https://github.com/imliam/Lua-Collections
 

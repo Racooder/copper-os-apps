@@ -1,6 +1,6 @@
 {
 	title = 'APIs used by various programs',
-	repository = 'Racooder/opus-apps/{{OPUS_BRANCH}}/core',
+	repository = 'Racooder/opus-apps-quilt-tech/{{OPUS_BRANCH}}/core',
 	description = [[Provides APIs used by Opus applications.]],
 	license = 'MIT',
 }

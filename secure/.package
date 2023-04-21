@@ -1,6 +1,6 @@
 {
 	title = 'Security features for Opus OS',
-	repository = 'Racooder/opus-apps/{{OPUS_BRANCH}}/secure',
+	repository = 'Racooder/opus-apps-quilt-tech/{{OPUS_BRANCH}}/secure',
 	description = [[ Screen locking ]],
 	license = 'MIT',
 }

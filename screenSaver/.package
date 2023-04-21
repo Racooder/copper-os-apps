@@ -1,6 +1,6 @@
 {
 	title = 'Screen Savers',
-	repository = 'Racooder/opus-apps/{{OPUS_BRANCH}}/screenSaver',
+	repository = 'Racooder/opus-apps-quilt-tech/{{OPUS_BRANCH}}/screenSaver',
 	description = [[ Various screen savers ]],
 	license = 'MIT',
 }

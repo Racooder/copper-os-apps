@@ -1,6 +1,6 @@
 {
 	title = 'Lua Debugger',
-	repository = 'Racooder/opus-apps/{{OPUS_BRANCH}}/debugger',
+	repository = 'Racooder/opus-apps-quilt-tech/{{OPUS_BRANCH}}/debugger',
 	description = [[Lua interactive debugger]],
 	license = 'MIT',
 }

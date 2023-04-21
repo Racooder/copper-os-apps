@@ -1,4 +1,4 @@
-# opus-apps
+# opus-apps-quilt-tech
 Applications for Opus OS
 
 ## Installing an application
