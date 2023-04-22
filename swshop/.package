@@ -1,9 +1,0 @@
-{
-	required = {
-		'milo',
-	},
-	title = 'SwitchCraft basic shop',
-	repository = 'Racooder/opus-apps-quilt-tech/{{OPUS_BRANCH}}/swshop',
-	description = 'Krist-based shop for SwitchCraft\nRun installPlugin.lua after install',
-	license = 'MIT',
-}

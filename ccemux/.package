@@ -1,8 +1,0 @@
-{
-	title = 'CCEmuX peripheral management',
-	repository = 'Racooder/opus-apps-quilt-tech/{{OPUS_BRANCH}}/ccemux',
-	description = [[Peripheral management for CCEmuX
-
-Adds a tab in the System application for configuring peripherals.]],
-	license = 'MIT',
-}
