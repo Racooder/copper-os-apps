@@ -1,7 +1,7 @@
-local class      = require('opus.class')
+local class      = require('copper.class')
 local itemDB     = require('core.itemDB')
-local Peripheral = require('opus.peripheral')
-local Util       = require('opus.util')
+local Peripheral = require('copper.peripheral')
+local Util       = require('copper.util')
 
 local RefinedAdapter = class()
 

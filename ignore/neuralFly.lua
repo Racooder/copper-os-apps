@@ -1,7 +1,7 @@
 _G.requireInjector(_ENV)
 
-local Config = require('opus.config')
-local GPS = require('opus.gps')
+local Config = require('copper.config')
+local GPS = require('copper.gps')
 local ni = _G.device.neuralInterface
 
 local os       = _G.os

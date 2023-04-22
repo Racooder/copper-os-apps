@@ -1,4 +1,4 @@
-local Util = require('opus.util')
+local Util = require('copper.util')
 
 local device     = _G.device
 local os         = _G.os

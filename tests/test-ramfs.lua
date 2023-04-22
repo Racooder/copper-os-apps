@@ -1,4 +1,4 @@
-local ramfs = require('opus.fs.ramfs')
+local ramfs = require('copper.fs.ramfs')
 
 local fs = _G.fs
 

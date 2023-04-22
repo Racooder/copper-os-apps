@@ -1,6 +1,6 @@
-local LZW  = require('opus.compress.lzw')
-local Tar  = require('opus.compress.tar')
-local Util = require('opus.util')
+local LZW  = require('copper.compress.lzw')
+local Tar  = require('copper.compress.tar')
+local Util = require('copper.util')
 
 local shell = _ENV.shell
 

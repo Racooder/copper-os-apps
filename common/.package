@@ -1,7 +1,7 @@
 {
 	title = 'Useful applications',
-	repository = 'Racooder/opus-apps-quilt-tech/{{OPUS_BRANCH}}/common',
-	description = [[Various applications for Opus.
+	repository = 'Racooder/copper-os-apps/{{COPPER_BRANCH}}/common',
+	description = [[Various applications for Copper OS.
 
 * A office editor
 * A better code editor (copy/paste/undo)

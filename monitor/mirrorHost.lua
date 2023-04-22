@@ -1,5 +1,5 @@
-local Event  = require('opus.event')
-local Socket = require('opus.socket')
+local Event  = require('copper.event')
+local Socket = require('copper.socket')
 
 local colors = _G.colors
 local term   = _G.term

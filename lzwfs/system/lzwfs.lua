@@ -1,6 +1,6 @@
-local Config = require('opus.config')
-local UI     = require('opus.ui')
-local Util   = require('opus.util')
+local Config = require('copper.config')
+local UI     = require('copper.ui')
+local Util   = require('copper.util')
 
 local fs = _G.fs
 

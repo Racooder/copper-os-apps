@@ -1,7 +1,7 @@
-local Ansi  = require('opus.ansi')
-local Event = require('opus.event')
-local UI    = require('opus.ui')
-local Util  = require('opus.util')
+local Ansi  = require('copper.ansi')
+local Event = require('copper.event')
+local UI    = require('copper.ui')
+local Util  = require('copper.util')
 
 local device = _G.device
 

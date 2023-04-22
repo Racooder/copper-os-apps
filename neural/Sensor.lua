@@ -1,7 +1,7 @@
-local Config  = require('opus.config')
-local Event   = require('opus.event')
-local UI      = require('opus.ui')
-local Util    = require('opus.util')
+local Config  = require('copper.config')
+local Event   = require('copper.event')
+local UI      = require('copper.ui')
+local Util    = require('copper.util')
 
 local colors  = _G.colors
 local device  = _G.device

@@ -1,8 +1,8 @@
-local Event  = require('opus.event')
+local Event  = require('copper.event')
 local itemDB = require('core.itemDB')
 local neural = require('neural.interface')
-local UI     = require('opus.ui')
-local Util   = require('opus.util')
+local UI     = require('copper.ui')
+local Util   = require('copper.util')
 
 local device     = _G.device
 

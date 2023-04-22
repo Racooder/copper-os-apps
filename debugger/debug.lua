@@ -1,8 +1,8 @@
-local class  = require('opus.class')
-local Config = require('opus.config')
-local Event  = require('opus.event')
-local UI     = require('opus.ui')
-local Util   = require('opus.util')
+local class  = require('copper.class')
+local Config = require('copper.config')
+local Event  = require('copper.event')
+local UI     = require('copper.ui')
+local Util   = require('copper.util')
 
 local fs         = _G.fs
 local getfenv    = _G.getfenv

@@ -1,6 +1,6 @@
 {
 	title = 'Shell utilities',
-	repository = 'Racooder/opus-apps-quilt-tech/{{OPUS_BRANCH}}/shellex',
+	repository = 'Racooder/copper-os-apps/{{COPPER_BRANCH}}/shellex',
 	description = [[Experimental!
 A port of openos shell tools.
 

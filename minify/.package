@@ -1,6 +1,6 @@
 {
 	title = 'Lua minification',
-	repository = 'Racooder/opus-apps-quilt-tech/{{OPUS_BRANCH}}/minify',
+	repository = 'Racooder/copper-os-apps/{{COPPER_BRANCH}}/minify',
 	description = [[ Minifies Lua files ]],
 	license = 'MIT',
 }

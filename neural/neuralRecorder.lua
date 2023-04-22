@@ -1,6 +1,6 @@
-local GPS  = require('opus.gps')
-local Point = require('opus.point')
-local Util = require('opus.util')
+local GPS  = require('copper.gps')
+local Point = require('copper.point')
+local Util = require('copper.util')
 
 --[[
 	Record your movements for playback on another mob.
