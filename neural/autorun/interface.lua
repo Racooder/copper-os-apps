@@ -1,4 +1,4 @@
-local GPS = require('opus.gps')
+local GPS = require('copper.gps')
 
 local device = _G.device
 

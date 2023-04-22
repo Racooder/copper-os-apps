@@ -1,5 +1,5 @@
-local class = require('opus.class')
-local Util  = require('opus.util')
+local class = require('copper.class')
+local Util  = require('copper.util')
 
 local TableDB = class()
 function TableDB:init(args)

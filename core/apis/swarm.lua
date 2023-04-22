@@ -1,6 +1,6 @@
-local class   = require('opus.class')
-local Event   = require('opus.event')
-local Map     = require('opus.map')
+local class   = require('copper.class')
+local Event   = require('copper.event')
+local Map     = require('copper.map')
 local Proxy   = require('core.proxy')
 
 local Swarm = class()

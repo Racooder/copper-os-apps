@@ -1,4 +1,4 @@
-local Event = require('opus.event')
+local Event = require('copper.event')
 
 local Message = { }
 

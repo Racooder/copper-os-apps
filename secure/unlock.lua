@@ -6,9 +6,9 @@
 
 package.path = '/sys/modules/?.lua;' .. package.path
 
-local Security = require('opus.security')
-local SHA      = require('opus.crypto.sha2')
-local Terminal = require('opus.terminal')
+local Security = require('copper.security')
+local SHA      = require('copper.crypto.sha2')
+local Terminal = require('copper.terminal')
 
 local term = _G.term
 

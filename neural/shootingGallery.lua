@@ -1,6 +1,6 @@
 local Angle = require('neural.angle')
 local Mobs  = require('neural.mobs')
-local Point = require('opus.point')
+local Point = require('copper.point')
 
 local device = _G.device
 local os     = _G.os

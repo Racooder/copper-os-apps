@@ -1,6 +1,6 @@
 {
 	title = 'LuaFileSystem',
-	repository = 'Racooder/opus-apps-quilt-tech/{{OPUS_BRANCH}}/lfs',
+	repository = 'Racooder/copper-os-apps/{{COPPER_BRANCH}}/lfs',
 	description = [[LuaFileSystem port for computercraft
 See: https://github.com/keplerproject/luafilesystem
 

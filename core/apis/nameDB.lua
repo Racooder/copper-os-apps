@@ -1,6 +1,6 @@
-local JSON    = require('opus.json')
+local JSON    = require('copper.json')
 local TableDB = require('core.tableDB')
-local Util    = require('opus.util')
+local Util    = require('copper.util')
 
 local fs = _G.fs
 

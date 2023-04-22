@@ -4,9 +4,9 @@
 ]]
 
 local neural = require('neural.interface')
-local Point  = require('opus.point')
-local Sound  = require('opus.sound')
-local Util   = require('opus.util')
+local Point  = require('copper.point')
+local Sound  = require('copper.sound')
+local Util   = require('copper.util')
 
 local os = _G.os
 

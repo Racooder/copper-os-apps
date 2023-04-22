@@ -1,5 +1,5 @@
-local Config = require('opus.config')
-local Util   = require('opus.util')
+local Config = require('copper.config')
+local Util   = require('copper.util')
 
 local fs         = _G.fs
 local kernel     = _G.kernel

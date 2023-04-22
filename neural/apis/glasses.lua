@@ -5,8 +5,8 @@
 	the normal cc font.
 ]]
 
-local Terminal = require('opus.terminal')
-local Util     = require('opus.util')
+local Terminal = require('copper.terminal')
+local Util     = require('copper.util')
 
 local device = _G.device
 

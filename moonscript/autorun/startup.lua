@@ -1,4 +1,4 @@
-local Map = require('opus.map')
+local Map = require('copper.map')
 
 local fs    = _G.fs
 

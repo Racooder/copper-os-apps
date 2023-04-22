@@ -1,5 +1,5 @@
-local Config = require('opus.config')
-local Util   = require('opus.util')
+local Config = require('copper.config')
+local Util   = require('copper.util')
 
 local device     = _G.device
 local kernel     = _G.kernel
@@ -18,10 +18,10 @@ local config = Config.load('secure', {
 local timer = config.enabled and os.startTimer(config.timeout)
 
 local function buildLockScreen()
-	local Event    = require('opus.event')
-	local Security = require('opus.security')
-	local SHA      = require('opus.crypto.sha2')
-	local UI       = require('opus.ui')
+	local Event    = require('copper.event')
+	local Security = require('copper.security')
+	local SHA      = require('copper.crypto.sha2')
+	local UI       = require('copper.ui')
 
 	local counter = .1
 

@@ -12,11 +12,11 @@
 	Feeding hand has been changed to off-hand.
 ]]
 
-local Array  = require('opus.array')
-local Config = require('opus.config')
+local Array  = require('copper.array')
+local Config = require('copper.config')
 local neural = require('neural.interface')
-local Sound  = require('opus.sound')
-local Map    = require('opus.map')
+local Sound  = require('copper.sound')
+local Map    = require('copper.map')
 
 local os = _G.os
 

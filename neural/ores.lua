@@ -5,12 +5,12 @@
 
 -- Updated to use new(ish) canvas3d
 
-local Config = require('opus.config')
-local GPS    = require('opus.gps')
-local UI     = require('opus.ui')
-local Util   = require('opus.util')
+local Config = require('copper.config')
+local GPS    = require('copper.gps')
+local UI     = require('copper.ui')
+local Util   = require('copper.util')
 local itemDB = require('core.itemDB')
-local Event  = require('opus.event')
+local Event  = require('copper.event')
 local Angle  = require('neural.angle')
 
 local keys       = _G.keys

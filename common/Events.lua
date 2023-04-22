@@ -1,6 +1,6 @@
-local Event = require('opus.event')
-local UI    = require('opus.ui')
-local Util  = require('opus.util')
+local Event = require('copper.event')
+local UI    = require('copper.ui')
+local Util  = require('copper.util')
 
 local multishell = _ENV.multishell
 local kernel     = _G.kernel

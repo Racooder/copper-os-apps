@@ -1,4 +1,4 @@
-local Sound = require('opus.sound')
+local Sound = require('copper.sound')
 
 local os = _G.os
 

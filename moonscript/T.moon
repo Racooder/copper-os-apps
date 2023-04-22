@@ -1,5 +1,5 @@
-Event = require('opus.event')
-UI    = require('opus.ui')
+Event = require('copper.event')
+UI    = require('copper.ui')
 
 import kernel     from _G
 import multishell from _ENV

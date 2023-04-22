@@ -1,6 +1,6 @@
-local Event    = require('opus.event')
-local Socket   = require('opus.socket')
-local Util     = require('opus.util')
+local Event    = require('copper.event')
+local Socket   = require('copper.socket')
+local Util     = require('copper.util')
 
 local os         = _G.os
 

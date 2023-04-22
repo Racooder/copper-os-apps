@@ -1,6 +1,6 @@
 {
-	title = 'Security features for Opus OS',
-	repository = 'Racooder/opus-apps-quilt-tech/{{OPUS_BRANCH}}/secure',
+	title = 'Security features for Copper OS OS',
+	repository = 'Racooder/copper-os-apps/{{COPPER_BRANCH}}/secure',
 	description = [[ Screen locking ]],
 	license = 'MIT',
 }

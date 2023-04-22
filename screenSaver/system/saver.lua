@@ -1,5 +1,5 @@
-local Config = require('opus.config')
-local UI     = require('opus.ui')
+local Config = require('copper.config')
+local UI     = require('copper.ui')
 
 local config = Config.load('saver', {
 	enabled = true,
